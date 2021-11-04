@@ -1,6 +1,11 @@
 #include <QApplication>
 #include <QPushButton>
+<<<<<<< HEAD
 
+=======
+ //there should be changes from the first branch
+ // there are mustbe some change too
+>>>>>>> first
 int main(int argc, char *argv[ ]) 
 {
 QApplication app(argc, argv);
