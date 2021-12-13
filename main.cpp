@@ -6,7 +6,7 @@ int main(int argc, char *argv[ ])
 {
 QApplication app(argc, argv);
  
-QPushButton button("Hi!");
+QPushButton button("Hello!");
 
 button.resize(200, 60);
 button.show( );
